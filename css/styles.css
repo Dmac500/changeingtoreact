@@ -249,6 +249,15 @@ align-items: center;
 flex-wrap: wrap;
 justify-content:space-between;
 }
+.work .work-content .MTM .text{
+  font-size: 32px;
+  font-weight: 600;
+  color: white;
+}
+.work .work-content .MTM p{
+color:white;
+font-size: 20px;
+}
 .work .work-content .Marcus .text{
   font-size: 32px;
   font-weight: 600;
