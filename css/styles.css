@@ -249,12 +249,12 @@ align-items: center;
 flex-wrap: wrap;
 justify-content:space-between;
 }
-.work .work-content .MTM .text{
+.work .work-content .MadeToMesure .text{
   font-size: 32px;
   font-weight: 600;
   color: white;
 }
-.work .work-content .MTM p{
+.work .work-content .MadeToMesure p{
 color:white;
 font-size: 20px;
 }
